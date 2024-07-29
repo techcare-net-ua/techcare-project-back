@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_components_advantages_feature_details",
+  "info": {
+    "displayName": "Advantages Feature Details"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "CircleGauge",
+        "Clock8",
+        "Package",
+        "ShieldCheck"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_layout_advantages_sections",
+  "info": {
+    "displayName": "Advantages Section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "feature": {
+      "displayName": "Feature",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.feature"
+    },
+    "featureDetails": {
+      "displayName": "Advantages Feature Details",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.advantages-feature-details"
+    }
+  }
+}

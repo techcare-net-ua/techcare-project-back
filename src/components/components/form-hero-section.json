@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_form_form_hero_sections",
+  "info": {
+    "displayName": "Form Hero Section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}
