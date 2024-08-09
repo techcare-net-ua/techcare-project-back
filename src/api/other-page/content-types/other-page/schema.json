@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "other_pages",
+  "info": {
+    "singularName": "other-page",
+    "pluralName": "other-pages",
+    "displayName": "Other Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}
