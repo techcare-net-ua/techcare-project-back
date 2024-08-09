@@ -83,7 +83,7 @@ module.exports = ({ env }) => {
       connection: {
         filename: env(
           "DATABASE_FILENAME",
-          path.join(__dirname, "..", ".tmp/data.db")
+          path.join(__dirname, "..", "data/data.db")
         ),
       },
       useNullAsDefault: true,
